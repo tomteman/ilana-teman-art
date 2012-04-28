@@ -261,7 +261,7 @@ ul.ps_nav li.ps_preview span{
 
 #home, #work, #about, #contact, #exhibitions{
 	position:relative;
-	margin-bottom:500px;
+	margin-bottom:300px;
 	float:left;
 	width:100%;
 	padding-top:15px;
@@ -640,7 +640,7 @@ form  .button:hover{
 }
 
 .clickableHeader:hover{
-	color: #FF00EE;
+	color: #CC1616;
 	
 }
 
