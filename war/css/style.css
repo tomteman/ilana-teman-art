@@ -365,6 +365,7 @@ figure figcaption a{
 }
 figure figcaption a:hover{
 	text-decoration:none;
+	cursor:default;
 	color:#343434;
 }
 figure figcaption a span{
