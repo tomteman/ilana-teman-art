@@ -528,42 +528,20 @@ figure figcaption a:hover span{
 	margin:0 4px;
 }
 
-.social li.dribble a{
-	background:url(../images/icon_dribble.png) no-repeat;
+.social li.gmail a{
+	background:url(../images/icons/gmail_32.png) no-repeat;
 	width:29px;
 	height:29px;
 	display:block;
 }
-.social li.twitter a{
-	background:url(../images/icon_twitter.png) no-repeat;
-	width:29px;
-	height:29px;
-	display:block;
-}
-.social li.lastfm a{
-	background:url(../images/icon_lastfm.png) no-repeat;
-	width:29px;
-	height:29px;
-	display:block;
-}
+
 .social li.facebook a{
-	background:url(../images/icon_facebook.png) no-repeat;
+	background:url(../images/icons/facebook_32.png) no-repeat;
 	width:29px;
 	height:29px;
 	display:block;
 }
-.social li.location a{
-	background:url(../images/icon_location.png) no-repeat;
-	width:29px;
-	height:29px;
-	display:block;
-}
-.social li.forrst a{
-	background:url(../images/icon_forrst.png) no-repeat;
-	width:29px;
-	height:29px;
-	display:block;
-}
+
 .social li a{
 	opacity:.5;
 	-webkit-transition: all 0.3s ease;
