@@ -25,6 +25,7 @@
 					<li class="active" id="nav-1"><a href="#home">Home</a></li>
 					<li id="nav-2"><a href="#work">Work</a></li>
 					<li id="nav-5"><a href="#exhibitions">Exhibitions</a></li>
+					<li id="nav-6"><a href="#media">Media</a></li>
 					<li id="nav-3"><a href="#about">About</a></li>
 					<li id="nav-4"><a href="#contact">Contact</a></li>
 				</ul>
@@ -1085,6 +1086,32 @@
 			</section>
 			<!--end section-->
 
+			<section id="media" class="clearfix">
+				<header>
+					<h2>Media</h2>
+				</header>
+
+				<ul class="skills">
+					
+					
+					<li class="media_info"><a href="http://www.netoartnet.co.il/Magazine.asp?Article_Id=979" target="_blank">"In the beginning, there was nature"</a></li>
+					<li class="media_icon"><a
+						href="images/media/ecotime.jpg" rel="media"
+						title="In the beginning, there was nature"><img
+							src="images/icon_magnify.gif" alt="Image"
+							class="exhibition_icon_image" /></a></li>
+				
+					
+
+
+				</ul>
+
+				<div class="clearfix"></div>
+
+			</section>
+			<!--end section-->
+
+
 			<section id="about" class="clearfix">
 				<header>
 					<h2>About Ilana</h2>
@@ -1407,6 +1434,27 @@
 								});
 							});
 
+							$("a[rel=media]")
+							.fancybox(
+									{
+										'transitionIn' : 'elastic',
+										'transitionOut' : 'elastic',
+										'titlePosition' : 'over',
+										'titleFormat' : function(title,
+												currentArray,
+												currentIndex,
+												currentOpts) {
+											return '<span id="fancybox-title-over">Image '
+													+ (currentIndex + 1)
+													+ ' / '
+													+ currentArray.length
+													+ (title.length ? ' &nbsp; '
+															+ title
+															: '')
+													+ '</span>';
+										}
+									});
+							
 							$("a[rel=exhibition]")
 									.fancybox(
 											{
