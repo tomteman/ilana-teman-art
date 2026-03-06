@@ -380,7 +380,7 @@ details.category[open] summary h3::before {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 0 10px;
-  align-items: start;
+  align-items: center;
   margin-bottom: 10px;
   font-family: var(--font-heading);
   font-size: 27px;
