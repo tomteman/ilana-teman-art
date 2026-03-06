@@ -1,0 +1,54 @@
+[
+  {
+    "text": "CultureBuzz,",
+    "links": [
+      { "text": "The Sound of Pop Art - Guided Tour", "url": "https://www.youtube.com/watch?v=w2QqkQV-Tec" }
+    ]
+  },
+  {
+    "text": "Modi'in Daily,",
+    "links": [
+      { "text": "\"Miracles appear in light\"", "url": "images/media/media_miracles_appear_in_light_modiin_daily.pdf" }
+    ]
+  },
+  {
+    "text": "44 Degrees, Israeli Artists Magazine,",
+    "links": [
+      { "text": "\"Urban Landscape\"", "url": "http://issuu.com/44degrees/docs/44degrees-6/1?e=7516406/3269862" }
+    ]
+  },
+  {
+    "text": "\"Homme/Femme : L'Illusion de la realite\", Local Newspaper",
+    "links": [],
+    "image": "images/media/homme_femme_paris.jpg",
+    "imageTitle": "Homme/Femme : L'Illusion de la realite"
+  },
+  {
+    "text": "\"Homme/Femme : L'Illusion de la realite\",",
+    "links": [
+      { "text": "Local TV Station", "url": "http://newsarttoday.tv/expo/galerie-claire-corcia-hommefemme-lillusion-de-la-realite/" }
+    ]
+  },
+  {
+    "text": "\"Art and Objecthood\"",
+    "links": [
+      { "text": "Article 1", "url": "http://www.e-mago.co.il/exhibitions-652.htm" },
+      { "text": "Article 2", "url": "http://volvo-israel.co.il/?CategoryID=272" }
+    ]
+  },
+  {
+    "text": "\"Urbanism in a Specific Space\"",
+    "links": [
+      { "text": "Article 1", "url": "http://www.e-mago.co.il/exhibitions-464.htm" },
+      { "text": "Article 2", "url": "http://www.ilmuseums.com/exhibitions/hebrew_article.asp?article_id=4348" }
+    ]
+  },
+  {
+    "text": "",
+    "links": [
+      { "text": "\"In the beginning, there was nature\"", "url": "http://www.netoartnet.co.il/Magazine.asp?Article_Id=979" }
+    ],
+    "image": "images/media/ecotime.jpg",
+    "imageTitle": "In the beginning, there was nature"
+  }
+]

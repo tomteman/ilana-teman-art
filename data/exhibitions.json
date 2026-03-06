@@ -1,0 +1,622 @@
+[
+  {
+    "year": "2017",
+    "type": "Joint exhibition",
+    "title": "Exodus",
+    "titleLink": "http://www.artbeat.co.il/Exhibition.php?ind=5033#.WSBxgomGNE4",
+    "venue": "Orly Dvir Gallery",
+    "venueLink": "https://www.facebook.com/orlydvi/",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/exhibition_exodus_orly_dvir_gallery.jpg"
+  },
+  {
+    "year": "2017",
+    "type": "Joint exhibition",
+    "title": "Matkot",
+    "venue": "Novosibirsk State Museum of Local History & Nature",
+    "venueLink": "http://youmuseum.ru/",
+    "location": "Novosibirsk, Russia",
+    "image": "images/exhibitions/exhibition_matkot_novosibirsk_russia.jpg"
+  },
+  {
+    "year": "2017",
+    "type": "Joint charity exhibition",
+    "title": "Israeli Art 2017",
+    "titleLink": "http://www.aidsisrael.org.il/article/art",
+    "venue": "Bank Ha'Poalim",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_poalim_mikol_halev.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "GenovArt",
+    "titleLink": "http://www.percornigliano.it/eventi-villa-bombrini/genovart/",
+    "venue": "Villa Bombrini",
+    "venueLink": "https://it.wikipedia.org/wiki/Villa_Saluzzo_Bombrini",
+    "location": "Genova, Italy",
+    "image": "images/exhibitions/exhibition_genovart_villa_bombrini.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "Shevet Ahim Gam Yahad",
+    "titleLink": "http://www.mouse.co.il/art/exhibitions/1.3478350",
+    "venue": "Artists' House",
+    "venueLink": "http://www.mouse.co.il/art/museumsgallery/1.3183708",
+    "location": "Ashdod, Israel",
+    "image": "images/exhibitions/exhibition_shevet_ahim_gam_yahad.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "Green Hug - Ecoart 2",
+    "titleLink": "http://www.artbeat.co.il/Exhibition.php?ind=4845#.WSBp5ImGNE4",
+    "venue": "Canetti Studio",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_green_hug_ecoart_2.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "Shalosh Ba'Zeva Ba'Teva",
+    "titleLink": "http://www.artbeat.co.il/Exhibition.php?ind=4931#.WSBQ94mGNE4",
+    "venue": "Green House Gallery",
+    "venueLink": "https://foursquare.com/v/usvp-infrastructure-30/4eb24ee3490126a5702d6b69",
+    "location": "Tel-Aviv University, Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_shalosh_bazeva_bateva.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "Imagination 2016",
+    "titleLink": "https://www.facebook.com/events/586325998182164/",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_imagination_2016_bank_hapoalim.jpg",
+    "featured": true,
+    "thumbnail": "images/exhibitions/exhibition_imagination_2016_bank_hapoalim_cut.jpg"
+  },
+  {
+    "year": "2016",
+    "type": "Joint exhibition",
+    "title": "Dresses and more...",
+    "titleLink": "https://www.facebook.com/events/787513301394889/",
+    "venue": "Green House Gallery",
+    "venueLink": "https://foursquare.com/v/usvp-infrastructure-30/4eb24ee3490126a5702d6b69",
+    "location": "Tel-Aviv University, Tel-Aviv, Israel",
+    "image": "images/exhibitions/dresses_and_more.jpg"
+  },
+  {
+    "year": "2015",
+    "type": "Joint exhibition",
+    "title": "Art & About",
+    "titleLink": "https://www.facebook.com/Art.About.Israeli.Worldwide.Exhibition",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/exhibition_art_and_about_jaffa.jpg"
+  },
+  {
+    "year": "2015",
+    "type": "Joint exhibition",
+    "title": "Expo Milano 2015",
+    "titleLink": "http://www.expo2015.org/en",
+    "location": "Milano, Italy",
+    "image": "images/exhibitions/exhibition_expo_milano.jpg"
+  },
+  {
+    "year": "2015",
+    "type": "Joint exhibition",
+    "title": "Holocaust and Heroism Remembrance",
+    "venue": "Tel-Aviv University",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_holocaust_and_heroism_remembrance.jpg"
+  },
+  {
+    "year": "2015",
+    "type": "Joint exhibition",
+    "title": "Imagination 2015",
+    "titleLink": "http://www.artisrael.org.il/Artwork2015-6977-%D7%90%D7%99%D7%9C%D7%A0%D7%94-%D7%98%D7%9E%D7%90%D7%9F:%D7%9E%D7%92%D7%9F-%D7%93%D7%95%D7%93",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_imagination_2015_bank_hapoalim.jpg"
+  },
+  {
+    "year": "2015",
+    "type": "Joint exhibition",
+    "title": "Nof Moladeti",
+    "venue": "Herzliya Art Gallery",
+    "venueLink": "http://www.herzliya-art-gallery.org/",
+    "location": "Herzliya, Israel",
+    "image": "images/exhibitions/exhibition_nof_moladeti.jpg",
+    "featured": true,
+    "thumbnail": "images/exhibitions/exhibition_nof_moladeti_cut.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Light and... Darkness",
+    "venue": "Shoham Art Center",
+    "venueLink": "http://www.hamesh.co.il/?CategoryID=274",
+    "location": "Israel",
+    "image": "images/exhibitions/exhibition_light_and_darkness.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "International Art Show",
+    "venue": "Art Works",
+    "venueLink": "http://artworks-munich.com/work/ilana-teman/",
+    "location": "Munich, Germany",
+    "image": "images/exhibitions/exhibition_art_works_munich.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Vente Publique au Profit de la Wizo",
+    "titleLink": "https://www.facebook.com/espacefineart/posts/816009358451349",
+    "venue": "Espace Fine' Art, Les Salones Hoche",
+    "venueLink": "http://www.salons-hoche.fr/",
+    "location": "Paris, France",
+    "image": "images/exhibitions/exhibition_les_salons_hoche_paris.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Bein Kav Le'Tav",
+    "venue": "Shoham Art Center",
+    "venueLink": "http://www.hamesh.co.il/?CategoryID=274",
+    "location": "Israel",
+    "image": "images/exhibitions/exhibition_bein_kav_le_tav_shoham.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Star of David",
+    "titleLink": "http://libraries.tau.ac.il/2014-Events/Exhibitions-Magen-Daviv-12-06",
+    "venue": "Tel-Aviv University",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_star_of_david.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Eros and Passion",
+    "titleLink": "https://www.facebook.com/events/453015901498997/",
+    "venue": "Ha'Orgim Gallery",
+    "location": "Holon, Israel",
+    "image": "images/exhibitions/exhibition_eros_and_passion.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Tercera Semana de Israel",
+    "titleLink": "http://www.oviedo.es/1170",
+    "venue": "Sala de Exposiciones de Cajastur",
+    "venueLink": "https://www.cajastur.es/osyc/acultural/centros/centro1.html",
+    "location": "Oviedo, Spain",
+    "image": "images/exhibitions/exhibition_tercera_semana_de_israel.jpg"
+  },
+  {
+    "year": "2014",
+    "type": "Joint exhibition",
+    "title": "Art Monaco",
+    "titleLink": "http://monacofinearts.com/exhibition/art-monaco-2014/",
+    "venue": "Grimaldi Forum",
+    "venueLink": "http://www.grimaldiforum.com/",
+    "location": "Monaco",
+    "image": "images/exhibitions/exhibition_art_monaco.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Miracles Appear In Light",
+    "titleLink": "http://www.news1.co.il/Archive/0020-D-340746-00.html",
+    "venue": "Shoham Art Center",
+    "venueLink": "http://www.hamesh.co.il/?CategoryID=274",
+    "location": "Israel",
+    "image": "images/exhibitions/exhibition_miracles_appear_in_light.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "les Hivernales, L'Art est vivant",
+    "venue": "Palais des Congres",
+    "venueLink": "http://www.hivernales.fr/les-hivernales/",
+    "location": "Paris, France",
+    "image": "images/exhibitions/exhibition_les_Hivernales.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Tribute to Pop Art",
+    "venue": "Bikurey Ha'Itim multi-disciplinary art center",
+    "venueLink": "http://www.tlvitim.co.il/",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_tribute_to_pop_art.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Flowers All Over",
+    "venue": "Green House Gallery",
+    "venueLink": "https://foursquare.com/v/usvp-infrastructure-30/4eb24ee3490126a5702d6b69",
+    "location": "Tel-Aviv University, Tel-Aviv, Israel",
+    "image": "images/exhibitions/flowers_all_over.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "The Sound Of Pop Art",
+    "titleLink": "https://www.facebook.com/events/524460220972092/?ref=5",
+    "venue": "Volvo / Bosmat Niron",
+    "venueLink": "https://www.facebook.com/pages/Bosmat-Niron-Artist-Eco-Art-Outdoor-Sculpture-Painting/188117020207",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/volvo_art_in_motion_pop_art.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "On The Wings Of Shakti",
+    "titleLink": "http://www.midnighteast.com/mag/?p=28126",
+    "venue": "A Taste of India Art Festival, Jaffa Port",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/on_the_wings_of_shakti.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Pinat Hai (petting zoo)",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=253",
+    "image": "images/exhibitions/virtual_exhibition_pinat_hai.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Etz Ha'Sade",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=242",
+    "image": "images/exhibitions/virtual_exhibition_etz_hasade.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Israeli Summer",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=238",
+    "image": "images/exhibitions/israeli_summer.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint Exhibition",
+    "title": "Port of Exit",
+    "venue": "Jaffa Port",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/port_of_exit_jaffa.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Homme/Femme : L'Illusion de la realite",
+    "venue": "Galerie Clair Corcia",
+    "venueLink": "http://www.galeriecorcia.com/",
+    "location": "Paris, France",
+    "image": "images/exhibitions/paris_homme_femme_invite.jpeg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint Exhibition",
+    "title": "Matkot",
+    "venue": "Centro Sefarad-Israel",
+    "venueLink": "http://www.casasefarad-israel.es/site/en/agenda/agenda/0/05-2013/1005",
+    "location": "Madrid, Spain",
+    "image": "images/exhibitions/matkot_spain.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint Gallery Opening Exhibition",
+    "title": "Artwise Art Gallery",
+    "titleLink": "https://www.facebook.com/ArtWise.co.il",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/artwise_jaffa.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Moods",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=229"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Sensual and Sustainable Woman",
+    "venue": "Herlinger Bar",
+    "venueLink": "https://www.facebook.com/Herlinger.Bar",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/sensual_and_sustainable_woman.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Art and Objecthood",
+    "titleLink": "http://volvo-israel.co.il/?CategoryID=252",
+    "venue": "Volvo - Art In Motion",
+    "venueLink": "http://volvo-israel.co.il/?CategoryID=191",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/volvo_art_and_objecthood.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Eretz Moledet",
+    "location": "Jerusalem, Israel",
+    "image": "images/exhibitions/eretz_moledet.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Matkot, Lo Mas Israeli",
+    "location": "Madrid, Spain",
+    "image": "images/exhibitions/matkot_madrid.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Feelings",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=219",
+    "image": "images/exhibitions/feelings.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Joint exhibition",
+    "title": "Urbanism in a Specific Space",
+    "venue": "Green House Gallery",
+    "venueLink": "https://foursquare.com/v/usvp-infrastructure-30/4eb24ee3490126a5702d6b69",
+    "location": "Tel-Aviv University, Tel-Aviv, Israel",
+    "image": "images/exhibitions/urbanism_in_specific_space.jpg"
+  },
+  {
+    "year": "2013",
+    "type": "Virtual exhibition",
+    "title": "Urban Outlook",
+    "venue": "gallerina.co.il",
+    "venueLink": "http://www.gallerina.co.il/virtualGalleryInside.asp?galleryID=216",
+    "image": "images/exhibitions/urban_outlook.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Bird's-Eye View",
+    "titleLink": "http://www.artcity.co.il/Exhibition.php?ind=1629",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/birdseye_page2.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Ecoart - The Annual Science and Environment Convention",
+    "venue": "Tel-Aviv University",
+    "venueLink": "http://www.tau.ac.il/",
+    "location": "Israel",
+    "image": "images/exhibitions/ecoart_TAU.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Personal exhibition",
+    "title": "Urban Fantasy",
+    "venue": "Bauhaus Center",
+    "venueLink": "http://www.bauhaus-center.com/",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/urbanFantasy1.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "The Beautiful Life",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/TheBeautifulLife.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Geometric Fantasy",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/geometricFantasy2.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "The 3rd Annual Green Economy Conference",
+    "location": "Ramat-Gan, Israel",
+    "image": "images/exhibitions/greeneconomy.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Primavera - The Essence of Jaffa",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/primavera.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Eco-Time",
+    "venue": "Studio Bosmat Niron",
+    "venueLink": "http://www.facebook.com/pages/Studio-Bosmat-Niron/205635619465575",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/ecotime.jpg"
+  },
+  {
+    "year": "2012",
+    "type": "Group exhibition",
+    "title": "Spot Gallery",
+    "location": "Zikhron Ya'akov, Israel",
+    "image": "images/exhibitions/spot.jpg"
+  },
+  {
+    "year": "2011",
+    "type": "Group exhibition",
+    "title": "Israeli Breakfast",
+    "venue": "Givatayim Theater",
+    "location": "Israel",
+    "image": "images/exhibitions/breakfast.jpg"
+  },
+  {
+    "year": "2011",
+    "type": "Group exhibition",
+    "title": "Ecodrive",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/ecodrive.jpg"
+  },
+  {
+    "year": "2011",
+    "type": "Group exhibition",
+    "title": "GaleriaZero",
+    "location": "Paris, France",
+    "image": "images/exhibitions/paris.jpg"
+  },
+  {
+    "year": "2011",
+    "type": "Personal exhibition",
+    "title": "Musical Windows",
+    "location": "Ramat Aviv, Israel",
+    "image": "images/exhibitions/ramat_aviv_mall.jpg"
+  },
+  {
+    "year": "2011",
+    "type": "Personal exhibition",
+    "title": "GaleriaZero",
+    "location": "Barcelona, Spain"
+  },
+  {
+    "year": "2011",
+    "type": "Group exhibition",
+    "title": "Matkot",
+    "location": "Berlin, Germany; Gershtein Gallery, Tel-Aviv, Israel; Eilat, Israel; Naharia, Israel",
+    "image": "images/exhibitions/matkot.jpg"
+  },
+  {
+    "year": "2010",
+    "type": "Personal exhibition",
+    "title": "Zezeze Gallery",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/zezeze.jpg"
+  },
+  {
+    "year": "2010",
+    "type": "Participated in",
+    "title": "Autumn",
+    "venue": "Gallerina",
+    "location": "Bat-Shlomo, Israel"
+  },
+  {
+    "year": "2010",
+    "type": "Personal exhibition",
+    "title": "Wohl-Center",
+    "location": "Israel"
+  },
+  {
+    "year": "2002",
+    "type": "Personal exhibition",
+    "title": "Ephrat Gallery",
+    "location": "Tel-Aviv, Israel"
+  },
+  {
+    "year": "1991",
+    "type": "Participated in",
+    "title": "Gallery One Winter Show",
+    "location": "Virginia, USA"
+  },
+  {
+    "year": "1991",
+    "type": "Personal exhibition",
+    "location": "Virginia, USA"
+  },
+  {
+    "year": "1990",
+    "type": "Personal exhibition",
+    "location": "Eilat, Israel"
+  },
+  {
+    "year": "1986",
+    "type": "Personal exhibition",
+    "title": "Ha'Simta Gallery",
+    "location": "Jaffa, Israel"
+  },
+  {
+    "year": "1983",
+    "type": "Collective exhibitions",
+    "title": "Sponsored by the municipalities of Tel-Aviv and Haifa",
+    "location": "Israel"
+  },
+  {
+    "year": "1980",
+    "type": "Personal exhibition",
+    "title": "Museum of Modern Art",
+    "location": "Eilat, Israel"
+  },
+  {
+    "year": "1978",
+    "type": "II Biennale D'Arte",
+    "location": "Minerbio, Italy",
+    "note": "Awarded"
+  },
+  {
+    "year": "1976",
+    "type": "Participated in",
+    "title": "Premio Internazionale D'Arte Contemporanea",
+    "location": "Minerbio, Italy"
+  },
+  {
+    "year": "1975",
+    "type": "Concorso Nazionale Pittura",
+    "location": "Forli, Italy",
+    "note": "Awarded"
+  },
+  {
+    "year": "1975",
+    "type": "Personal exhibition",
+    "title": "Galleria Guerazzi",
+    "location": "Bologna, Italy"
+  },
+  {
+    "year": "1974",
+    "type": "Personal exhibition",
+    "title": "John Hopkins University",
+    "location": "Bologna, Italy"
+  },
+  {
+    "year": "1974",
+    "type": "Became a member in",
+    "title": "Accademia Universale Giuglielmo Marconi",
+    "location": "Rome, Italy"
+  },
+  {
+    "year": "1973",
+    "type": "2nd International Painting Award",
+    "title": "Bononia Docet"
+  },
+  {
+    "year": "1972",
+    "type": "Arte Performance",
+    "location": "Bologna, Italy",
+    "note": "Awarded"
+  },
+  {
+    "year": "1972",
+    "type": "La Collettiva 72",
+    "venue": "Galleria De Carbonesi",
+    "location": "Bologna, Italy"
+  },
+  {
+    "year": "1972",
+    "type": "Personal exhibition",
+    "title": "Le Muse gallery",
+    "location": "Bologna"
+  },
+  {
+    "year": "1970",
+    "type": "First exhibited",
+    "title": "Art galleries in Barcelona, Spain, Western Germany and Venezuela. After a year's stay in Spain she moved to Italy and established herself in Bologna where she graduated from the Academy of Fine Arts"
+  }
+]
