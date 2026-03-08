@@ -1,5 +1,388 @@
 [
   {
+    "year": "2026",
+    "type": "Joint exhibition",
+    "title": "Dialog BeHomer U'VeRuah",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_dialog_behomer_uveruah_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2025",
+    "type": "Joint exhibition",
+    "title": "Lir'ot Et HaOr...",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_lirot_et_haor_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2025",
+    "type": "Joint exhibition",
+    "title": "VeSamakhta BeHagekha...",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_vesamakhta_behagekha_2025_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2025",
+    "type": "Joint exhibition",
+    "title": "Od Neshev BeTzel HaTe'ena...",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_od_neshev_betzel_hateena_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2025",
+    "type": "Joint exhibition",
+    "title": "HaTzad HeHazak Shel HaTzeva",
+    "titleLink": "https://www.benamigallery.com/%d7%a7%d7%95%d7%9c-%d7%a7%d7%95%d7%a8%d7%90-%d7%9c%d7%aa%d7%a2%d7%a8%d7%95%d7%9b%d7%aa-%d7%9e%d7%a8%d7%a5-2025-%d7%94%d7%a6%d7%93-%d7%94%d7%97%d7%96%d7%a7-%d7%a9%d7%9c-%d7%94%d7%a6%d7%91%d7%a2/",
+    "venue": "Ben Ami Gallery",
+    "venueLink": "https://www.benamigallery.com",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_hatzad_hehazak_shel_hatzeva_ben_ami.jpg"
+  },
+  {
+    "year": "2025",
+    "type": "Joint exhibition",
+    "title": "Panim Rabot La...",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_panim_rabot_lo_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "VeAkhshav Eretz Yisrael",
+    "titleLink": "https://www.benamigallery.com/%d7%a7%d7%95%d7%9c-%d7%a7%d7%95%d7%a8%d7%90-%d7%9c%d7%aa%d7%a2%d7%a8%d7%95%d7%9b%d7%94-%d7%a7%d7%91%d7%95%d7%a6%d7%aa%d7%99%d7%aa-%d7%95%d7%a2%d7%9b%d7%a9%d7%99%d7%95-%d7%90%d7%a8%d7%a5-%d7%99%d7%a9/",
+    "venue": "Ben Ami Gallery",
+    "venueLink": "https://www.benamigallery.com",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_veakhshav_eretz_yisrael_ben_ami.jpg"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "Ein Li Eretz Aheret...",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_ein_li_eretz_aheret_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "Shana B'October",
+    "titleLink": "https://www.benamigallery.com/%d7%a7%d7%95%d7%9c-%d7%a7%d7%95%d7%a8%d7%90-%d7%9c%d7%aa%d7%a2%d7%a8%d7%95%d7%9b%d7%94-%d7%a7%d7%91%d7%95%d7%a6%d7%aa%d7%99%d7%aa-%d7%a9%d7%a0%d7%94-%d7%91%d7%90%d7%95%d7%a7%d7%98%d7%95%d7%91%d7%a8/",
+    "venue": "Ben Ami Gallery",
+    "venueLink": "https://www.benamigallery.com",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_shover_boktober_ben_ami.jpg"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "Ma'argei Tzeva",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_maargei_tzeva_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2024",
+    "type": "Art fair",
+    "title": "Tzeva Tari 2024",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_tzeva_tari_2024.jpg",
+    "titleLink": "https://www.freshpaint.co.il"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "BeMabat Ishi",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_bemabat_ishi_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2024",
+    "type": "Joint exhibition",
+    "title": "BeRuah U'VeHomer",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_beruah_uvehomer_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2023",
+    "type": "Joint exhibition",
+    "title": "Mabat Aher",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_mabat_aher_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2023",
+    "type": "Art fair",
+    "title": "Tzeva Tari 2023",
+    "location": "Jaffa Port, Israel",
+    "image": "images/exhibitions/exhibition_tzeva_tari_2023.jpg",
+    "titleLink": "https://www.freshpaint.co.il"
+  },
+  {
+    "year": "2023",
+    "type": "Joint exhibition",
+    "title": "Malka",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_malka_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2023",
+    "type": "Joint exhibition",
+    "title": "Bein Re'ali LeMufshat",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_bein_reali_lemufshat_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2023",
+    "type": "Joint exhibition",
+    "title": "Hibuk Yarok 5",
+    "venue": "Sourasky Central Library, Tel-Aviv University",
+    "venueLink": "https://cenlib.tau.ac.il/home",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_hibuk_yarok_5_tau.jpg"
+  },
+  {
+    "year": "2023",
+    "type": "Joint exhibition",
+    "title": "BaHoref HaZeh...",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_bahoref_hazeh_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2022",
+    "type": "Joint exhibition",
+    "title": "HaAra - Enlightenment",
+    "venue": "ZOA House",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_haara_enlightenment.jpg",
+    "venueLink": "https://zoatlv.co.il"
+  },
+  {
+    "year": "2022",
+    "type": "Joint exhibition",
+    "title": "Tzeva ViYetzira",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_tzeva_viyetzira_al_haagam.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2022",
+    "type": "Joint exhibition",
+    "title": "VeSamakht...",
+    "venue": "Al HaAgam Gallery",
+    "location": "Ra'anana, Israel",
+    "image": "images/exhibitions/exhibition_vesamakht_al_haagam_2022.jpg",
+    "venueLink": "https://maps.app.goo.gl/7HkKBtV9JRqzJGHK6"
+  },
+  {
+    "year": "2022",
+    "type": "Joint exhibition",
+    "title": "HaHomer VeHaYetzira",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_hahomer_vehayetzira_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2020",
+    "type": "Joint exhibition",
+    "title": "Www.COME",
+    "venue": "W Tower",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_www_come_w_tower.jpg"
+  },
+  {
+    "year": "2020",
+    "type": "Joint exhibition",
+    "title": "Batei Kafe U'Mekomot Bilui",
+    "venue": "Hadassah Medical Center, Davidson Tower",
+    "location": "Jerusalem, Israel",
+    "image": "images/exhibitions/exhibition_batei_kafe_hadassah.jpg",
+    "venueLink": "https://www.hadassah.org.il"
+  },
+  {
+    "year": "2020",
+    "type": "Joint exhibition",
+    "title": "Or VeHoshekh...",
+    "venue": "Hadassah Medical Center, Davidson Tower",
+    "location": "Jerusalem, Israel",
+    "image": "images/exhibitions/exhibition_or_vehoshekh_hadassah.jpg",
+    "venueLink": "https://www.hadassah.org.il"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "ViHi Or...",
+    "venue": "David's Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_vihi_or_davids_gallery.jpg"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "Hibuk Yarok 4",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_hibuk_yarok_4_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "VeSamakht BeHagekha",
+    "venue": "Teatron HaYahalom Gallery",
+    "location": "Ramat Gan, Israel",
+    "image": "images/exhibitions/exhibition_vesamakht_behagekha_2019_hayahalom.jpg",
+    "venueLink": "https://www.ramat-gan.muni.il/theaters/business-units/theaters_yahalom/"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "Urbanika Ba'Omanut",
+    "venue": "Sourasky Central Library, Tel-Aviv University",
+    "venueLink": "https://cenlib.tau.ac.il/home",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_urbanika_baomanut_tau.jpg"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "HaAdam U'Svivato",
+    "venue": "Hadassah Medical Center, Davidson Tower",
+    "location": "Jerusalem, Israel",
+    "image": "images/exhibitions/exhibition_haadam_usvivato_hadassah.jpg",
+    "venueLink": "https://www.hadassah.org.il"
+  },
+  {
+    "year": "2019",
+    "type": "Joint exhibition",
+    "title": "Nashim Yotzrot 2019",
+    "venue": "Moshe Castel Museum of Art",
+    "venueLink": "https://www.castelmuseum.co.il",
+    "location": "Ma'ale Adumim, Israel",
+    "image": "images/exhibitions/exhibition_nashim_yotzrot_2019_castel.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Dim'ot Shel Melah",
+    "venue": "Heikhal HaTarbut Ariel",
+    "venueLink": "https://www.arieltarbut.co.il/",
+    "location": "Ariel, Israel",
+    "image": "images/exhibitions/exhibition_dimot_shel_melah_ariel.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Or",
+    "venue": "Beit HaOmanim Shagal",
+    "venueLink": "https://maps.app.goo.gl/gJHZDeASr34SYArN6",
+    "location": "Israel",
+    "image": "images/exhibitions/exhibition_or_2018.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Dim'ot Shel Melah",
+    "venue": "Sourasky Central Library, Tel-Aviv University",
+    "venueLink": "https://cenlib.tau.ac.il/home",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_dimot_shel_melah_tau.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "70 LeOmanut Yisraelit",
+    "venue": "Hadassah Medical Center, Davidson Tower",
+    "location": "Jerusalem, Israel",
+    "image": "images/exhibitions/exhibition_70_leomanut_yisraelit_hadassah.jpg",
+    "venueLink": "https://www.hadassah.org.il"
+  },
+  {
+    "year": "2018",
+    "type": "Joint charity exhibition",
+    "title": "Israeli Art 2018",
+    "venue": "Bank Ha'Poalim",
+    "location": "Tel-Aviv, Israel",
+    "image": "images/exhibitions/exhibition_israeli_art_2018_poalim.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Hithadshut",
+    "venue": "AZUL Art Gallery",
+    "venueLink": "https://www.facebook.com/ta.azul/",
+    "location": "Tel-Aviv-Jaffa, Israel",
+    "image": "images/exhibitions/exhibition_hithadshut_galeria_asaf.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Nuovo Mondo",
+    "venue": "Liceo Artistico Caravaggio",
+    "location": "Milan, Italy",
+    "image": "images/exhibitions/exhibition_nuovo_mondo_milan.jpg"
+  },
+  {
+    "year": "2018",
+    "type": "Joint exhibition",
+    "title": "Matkot HaKhi Yisraeli",
+    "venue": "Art Gallery, University of Culture",
+    "location": "Minsk, Belarus",
+    "image": "images/exhibitions/exhibition_matkot_minsk_belarus.jpg"
+  },
+  {
+    "year": "2017",
+    "type": "Joint exhibition",
+    "title": "Matkot HaKhi Yisraeli",
+    "venue": "AVEC Gallery",
+    "location": "Kharkov, Ukraine",
+    "image": "images/exhibitions/exhibition_matkot_kharkov_ukraine.jpg",
+    "venueLink": "https://feldman.ua/en/galereya-avek/"
+  },
+  {
+    "year": "2017",
+    "type": "Joint exhibition",
+    "title": "Sodot VeRemazim",
+    "venue": "AZUL Art Gallery",
+    "venueLink": "https://www.facebook.com/ta.azul/",
+    "location": "Tel-Aviv-Jaffa, Israel",
+    "image": "images/exhibitions/exhibition_sodot_veremazim_azul.jpg"
+  },
+  {
+    "year": "2017",
+    "type": "Joint exhibition",
+    "title": "Matkot HaKhi Yisraeli",
+    "venue": "Museum of Odessa Modern Art",
+    "location": "Odessa, Ukraine",
+    "image": "images/exhibitions/exhibition_matkot_odessa_ukraine.jpg",
+    "venueLink": "https://msio.com.ua/en/"
+  },
+  {
     "year": "2017",
     "type": "Joint exhibition",
     "title": "Exodus",
@@ -108,7 +491,8 @@
     "title": "Holocaust and Heroism Remembrance",
     "venue": "Tel-Aviv University",
     "location": "Tel-Aviv, Israel",
-    "image": "images/exhibitions/exhibition_holocaust_and_heroism_remembrance.jpg"
+    "image": "images/exhibitions/exhibition_holocaust_and_heroism_remembrance.jpg",
+    "venueLink": "http://www.tau.ac.il/"
   },
   {
     "year": "2015",
@@ -173,7 +557,8 @@
     "titleLink": "http://libraries.tau.ac.il/2014-Events/Exhibitions-Magen-Daviv-12-06",
     "venue": "Tel-Aviv University",
     "location": "Tel-Aviv, Israel",
-    "image": "images/exhibitions/exhibition_star_of_david.jpg"
+    "image": "images/exhibitions/exhibition_star_of_david.jpg",
+    "venueLink": "http://www.tau.ac.il/"
   },
   {
     "year": "2014",
