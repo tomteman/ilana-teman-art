@@ -925,8 +925,10 @@
   {
     "year": "1986",
     "type": "Personal exhibition",
-    "title": "Ha'Simta Gallery",
-    "location": "Jaffa, Israel"
+    "venue": "Ha'Simta Gallery",
+    "venueLink": "https://hasimta.com/",
+    "location": "Jaffa, Israel",
+    "image": "images/exhibitions/exhibition_hasimta_gallery_jaffa.jpg"
   },
   {
     "year": "1983",
@@ -994,10 +996,11 @@
     "location": "Bologna, Italy"
   },
   {
-    "year": "1972",
+    "year": "1971",
     "type": "Personal exhibition",
     "title": "Le Muse gallery",
-    "location": "Bologna"
+    "location": "Bologna, Italy",
+    "image": "images/exhibitions/exhibition_le_muse_bologna.jpg"
   },
   {
     "year": "1970",
