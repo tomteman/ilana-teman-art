@@ -123,7 +123,9 @@ nav ul li {
   position: relative;
   margin-top: -7px;
 }
-nav ul li a {
+nav ul li a,
+nav ul li a:link,
+nav ul li a:visited {
   color: var(--color-nav);
   padding: 10px 0;
   display: block;
